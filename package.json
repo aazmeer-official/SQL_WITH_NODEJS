@@ -1,0 +1,24 @@
+{
+  "name": "sql_with_nodejs",
+  "version": "1.0.0",
+  "description": "Starting SQL with NODE JS",
+  "homepage": "https://github.com/aazmeer-official/SQL_WITH_NODEJS#readme",
+  "bugs": {
+    "url": "https://github.com/aazmeer-official/SQL_WITH_NODEJS/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aazmeer-official/SQL_WITH_NODEJS.git"
+  },
+  "license": "ISC",
+  "author": "Muhammad Aazmeer",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "mysql2": "^3.17.2"
+  }
+}
